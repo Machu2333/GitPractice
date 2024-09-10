@@ -6,7 +6,7 @@ export default class Test extends Component {
     return (
       <View>
         <Text>reset1</Text>
-        <Text>reset2</Text>
+        
 
       </View>
     )
