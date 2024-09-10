@@ -7,6 +7,7 @@ export default class Test extends Component {
       <View>
         <Text>reset1</Text>
         <Text>reset2</Text>
+        <Text>reset3</Text>
 
       </View>
     )
