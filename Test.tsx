@@ -5,9 +5,8 @@ export default class Test extends Component {
   render() {
     return (
       <View>
-        <Text>111</Text>
-        <Text>222</Text>
-        <Text>333</Text>
+        <Text>reset1</Text>
+        
 
       </View>
     )
