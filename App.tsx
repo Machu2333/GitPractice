@@ -40,7 +40,7 @@ function Section({children, title}: SectionProps): React.JSX.Element {
             color: isDarkMode ? Colors.white : Colors.black,
           },
         ]}>
-        {title}21312laksjdklasjdl
+        {title}mian1
       </Text>
       <Text
         style={[
