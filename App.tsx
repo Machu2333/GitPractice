@@ -40,7 +40,7 @@ function Section({ children, title }: SectionProps): React.JSX.Element {
             color: isDarkMode ? Colors.white : Colors.black,
           },
         ]}>
-        {title}app1app2
+        {title}app1app2updateSubmodule
       </Text>
       <Text
         style={[
