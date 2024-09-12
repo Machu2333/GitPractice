@@ -40,7 +40,7 @@ function Section({ children, title }: SectionProps): React.JSX.Element {
             color: isDarkMode ? Colors.white : Colors.black,
           },
         ]}>
-        {title}mian1mian2compare1
+        {title}sunmodule
       </Text>
       <Text
         style={[
